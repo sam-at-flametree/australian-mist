@@ -117,6 +117,7 @@
         "template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mist-packaging.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
