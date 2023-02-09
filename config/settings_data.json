@@ -131,6 +131,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/mist-logo.png",
           "logo_width": 200,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -167,12 +168,20 @@
               "heading": "",
               "menu": "main-menu"
             }
+          },
+          "a67fb0b6-d26c-486b-8914-027b76674bf0": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": "<p>Copyright Australian Mist 2021<br\/>Website by <a href=\"https:\/\/www.flametreecreative.com.au\/\" target=\"_blank\" title=\"https:\/\/www.flametreecreative.com.au\/\">Flametree Creative<\/a><\/p>"
+            }
           }
         },
         "block_order": [
           "330345cd-67be-4039-bfb3-1c8b429a8917",
           "footer-2",
-          "0b938b66-2f6b-4951-a26f-7a84ade53834"
+          "0b938b66-2f6b-4951-a26f-7a84ade53834",
+          "a67fb0b6-d26c-486b-8914-027b76674bf0"
         ],
         "settings": {
           "color_scheme": "accent-1",
