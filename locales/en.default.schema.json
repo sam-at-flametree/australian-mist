@@ -1318,6 +1318,9 @@
         "name": "Image with text"
       }
     },
+    "testimonials":{
+      "name": "Testimonials"
+    },
     "wide-image-with-text": {
       "name": "Wide image with text",
       "settings": {
