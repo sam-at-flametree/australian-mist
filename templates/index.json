@@ -1,1 +1,140 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"text":{"type":"text","settings":{"text":"TRADITIONAL WISDOM FROM","text_style":"body"}},"heading":{"type":"heading","settings":{"heading":"AUSTRALIAN MIST","heading_size":"h0"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop all","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["text","heading","button"],"settings":{"image":"shopify:\/\/shop_images\/banner.jpg","image_overlay_opacity":20,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-left","show_text_box":false,"desktop_content_alignment":"left","color_scheme":"accent-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"rich_text":{"type":"rich-text","settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":0}},"featured_collection":{"type":"featured-collection","settings":{"title":"OUR POPULAR PRODUCTS","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":28,"padding_bottom":36}},"846d9fd0-61a2-4531-b139-f5bd20143f5e":{"type":"image-with-text","blocks":{"template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-0":{"type":"heading","settings":{"heading":"About Australian mist","heading_size":"h1"}},"template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-1":{"type":"text","settings":{"text":"<p>Australian Mist is a unique group of products created from modern ingredients and traditional Aboriginal wisdom using the finest natural ingredients.<\/p><ul><li>100% natural ingredients<\/li><li>Proudly Australian, Family-Owned Natural Beauty-Care Brand<\/li><li>We use recipes & ingredients passed down by generations of elders<\/li><\/ul>","text_style":"subtitle"}},"template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-2":{"type":"button","settings":{"button_label":"ABOUT US","button_link":""}}},"block_order":["template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-0","template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-1","template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-2"],"settings":{"image":"shopify:\/\/shop_images\/transparent-img_1.png","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"accent-2","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}}},"order":["image_banner","rich_text","featured_collection","846d9fd0-61a2-4531-b139-f5bd20143f5e"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "TRADITIONAL WISDOM FROM",
+            "text_style": "body"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "AUSTRALIAN MIST",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "OUR POPULAR PRODUCTS",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "846d9fd0-61a2-4531-b139-f5bd20143f5e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Australian mist",
+            "heading_size": "h1"
+          }
+        },
+        "template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Australian Mist is a unique group of products created from modern ingredients and traditional Aboriginal wisdom using the finest natural ingredients.<\/p><ul><li>100% natural ingredients<\/li><li>Proudly Australian, Family-Owned Natural Beauty-Care Brand<\/li><li>We use recipes & ingredients passed down by generations of elders<\/li><\/ul>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "ABOUT US",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-0",
+        "template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-1",
+        "template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mist-packaging.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "featured_collection",
+    "846d9fd0-61a2-4531-b139-f5bd20143f5e"
+  ]
+}
