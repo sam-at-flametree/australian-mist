@@ -130,7 +130,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "logo": "shopify:\/\/shop_images\/mist-logo.png",
           "logo_width": 200,
           "logo_position": "middle-left",
@@ -150,16 +150,9 @@
           "330345cd-67be-4039-bfb3-1c8b429a8917": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/mist-logo.png",
-              "image_width": 200,
+              "image": "shopify:\/\/shop_images\/LOGO-neg.png",
+              "image_width": 180,
               "alignment": ""
-            }
-          },
-          "footer-2": {
-            "type": "text",
-            "settings": {
-              "heading": "",
-              "subtext": "<p>Australian Mist is a unique group of products created from modern ingredients and traditional Aboriginal wisdom using the finest natural ingredients.<\/p>"
             }
           },
           "0b938b66-2f6b-4951-a26f-7a84ade53834": {
@@ -169,18 +162,25 @@
               "menu": "main-menu"
             }
           },
+          "footer-2": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": "<p>Australian Mist is a unique group of products created from modern ingredients and traditional Aboriginal wisdom using the finest natural ingredients.<\/p>"
+            }
+          },
           "a67fb0b6-d26c-486b-8914-027b76674bf0": {
             "type": "text",
             "settings": {
               "heading": "",
-              "subtext": "<p>Copyright Australian Mist 2021<br\/>Website by <a href=\"https:\/\/www.flametreecreative.com.au\/\" target=\"_blank\" title=\"https:\/\/www.flametreecreative.com.au\/\">Flametree Creative<\/a><\/p>"
+              "subtext": "<p>Copyright Australian Mist 2023<br\/>Website by <a href=\"https:\/\/www.flametreecreative.com.au\/\" target=\"_blank\" title=\"https:\/\/www.flametreecreative.com.au\/\">Flametree Creative<\/a><\/p>"
             }
           }
         },
         "block_order": [
           "330345cd-67be-4039-bfb3-1c8b429a8917",
-          "footer-2",
           "0b938b66-2f6b-4951-a26f-7a84ade53834",
+          "footer-2",
           "a67fb0b6-d26c-486b-8914-027b76674bf0"
         ],
         "settings": {
@@ -191,9 +191,9 @@
           "enable_country_selector": false,
           "enable_language_selector": false,
           "payment_enable": false,
-          "margin_top": 48,
-          "padding_top": 36,
-          "padding_bottom": 36
+          "margin_top": 0,
+          "padding_top": 76,
+          "padding_bottom": 52
         }
       },
       "main-password-header": {
