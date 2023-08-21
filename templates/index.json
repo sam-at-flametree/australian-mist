@@ -35,8 +35,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify:\/\/shop_images\/Home_Page_-_Hero_image_-_20230713_155944__1_copy.png",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-left",
@@ -106,8 +106,8 @@
         "template--17931272782136__846d9fd0-61a2-4531-b139-f5bd20143f5e-167575485445830eef-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mist-packaging.png",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/Home_Page_-_About_Panel_Image___20230714_075557_1_copy.png",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
