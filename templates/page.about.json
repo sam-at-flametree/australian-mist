@@ -1,1 +1,96 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 28
+      }
+    },
+    "846f0248-6d0e-4dfa-a77b-822b987ac13e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17861326799130__846f0248-6d0e-4dfa-a77b-822b987ac13e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Australian Mist",
+            "heading_size": "h1"
+          }
+        },
+        "template--17861326799130__846f0248-6d0e-4dfa-a77b-822b987ac13e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Australian Mist is a unique group of products created from modern ingredients and traditional Aboriginal wisdom using the finest natural ingredients.<\/p><ul><li>100% natural ingredients<\/li><li>Proudly Australian, Family-Owned Natural Beauty-Care Brand<\/li><li>We use recipes & ingredients passed down by generations of elders<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17861326799130__846f0248-6d0e-4dfa-a77b-822b987ac13e-heading-1",
+        "template--17861326799130__846f0248-6d0e-4dfa-a77b-822b987ac13e-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_Page_-_Hero_Image___20230714_080253_copy.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17861326799130__1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Second Heading here",
+            "heading_size": "h1"
+          }
+        },
+        "template--17861326799130__1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17861326799130__1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "template--17861326799130__1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4-heading-1",
+        "template--17861326799130__1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4-text-1",
+        "template--17861326799130__1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_Page_-_Tertiary_Image___20230714_075938.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "846f0248-6d0e-4dfa-a77b-822b987ac13e",
+    "1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4"
+  ]
+}
