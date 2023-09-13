@@ -51,7 +51,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        "> * {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/5965\/1354\/files\/Artboard_1.webp?v=1694575903\") !important; }"
+        "> * {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/5965\/1354\/files\/featured-products-background.webp?v=1694576952\") !important;}"
       ],
       "settings": {
         "title": "OUR POPULAR PRODUCTS",
