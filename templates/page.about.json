@@ -2,9 +2,52 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 28
+      }
+    },
+    "2bf6fc97-7c82-4289-a733-56db4a0410aa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17861326799130__2bf6fc97-7c82-4289-a733-56db4a0410aa-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>About Australian Mist<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17861326799130__2bf6fc97-7c82-4289-a733-56db4a0410aa-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Australian Mist is a unique group of products created from modern ingredients and traditional Aboriginal wisdom using the finest natural ingredients.<\/p>"
+          }
+        },
+        "template--17861326799130__2bf6fc97-7c82-4289-a733-56db4a0410aa-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17861326799130__2bf6fc97-7c82-4289-a733-56db4a0410aa-heading-1",
+        "template--17861326799130__2bf6fc97-7c82-4289-a733-56db4a0410aa-text-1",
+        "template--17861326799130__2bf6fc97-7c82-4289-a733-56db4a0410aa-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "846f0248-6d0e-4dfa-a77b-822b987ac13e": {
@@ -13,14 +56,14 @@
         "template--17861326799130__846f0248-6d0e-4dfa-a77b-822b987ac13e-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "About Australian Mist",
-            "heading_size": "h1"
+            "heading": "Heading 2",
+            "heading_size": "h2"
           }
         },
         "template--17861326799130__846f0248-6d0e-4dfa-a77b-822b987ac13e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Australian Mist is a unique group of products created from modern ingredients and traditional Aboriginal wisdom using the finest natural ingredients.<\/p><ul><li>100% natural ingredients<\/li><li>Proudly Australian, Family-Owned Natural Beauty-Care Brand<\/li><li>We use recipes & ingredients passed down by generations of elders<\/li><\/ul>",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo eleifend maximus. Nam vitae dapibus leo. Quisque nibh augue, tristique id venenatis in, commodo non turpis. Nam at nisl bibendum, fermentum ante ut, rhoncus urna. Cras aliquam, nibh id volutpat varius, urna diam viverra leo, eget pretium mi orci et diam. Sed vehicula turpis ut sagittis blandit. Sed vel nunc a lectus suscipit laoreet quis et orci. Proin sit amet orci vitae ligula finibus interdum quis sed elit. Fusce ultricies et lorem tristique faucibus. Maecenas aliquam venenatis quam, in tempor sapien imperdiet et. Aenean id leo volutpat, accumsan est eu, egestas nisi. Integer varius turpis ac pretium tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque blandit purus eget purus mollis vehicula. Sed tempor diam sed eros vehicula blandit.<\/p>",
             "text_style": "body"
           }
         }
@@ -34,7 +77,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -43,20 +86,73 @@
         "padding_bottom": 0
       }
     },
+    "6f2e2364-d6bb-4314-a3ef-7cd91af88aa7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17861326799130__6f2e2364-d6bb-4314-a3ef-7cd91af88aa7-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17861326799130__6f2e2364-d6bb-4314-a3ef-7cd91af88aa7-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17861326799130__6f2e2364-d6bb-4314-a3ef-7cd91af88aa7-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17861326799130__6f2e2364-d6bb-4314-a3ef-7cd91af88aa7-column-1",
+        "template--17861326799130__6f2e2364-d6bb-4314-a3ef-7cd91af88aa7-column-2",
+        "template--17861326799130__6f2e2364-d6bb-4314-a3ef-7cd91af88aa7-column-3"
+      ],
+      "settings": {
+        "title": "Heading 3",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4": {
       "type": "image-with-text",
       "blocks": {
         "template--17861326799130__1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Second Heading here",
-            "heading_size": "h1"
+            "heading": "Heading 4",
+            "heading_size": "h2"
           }
         },
         "template--17861326799130__1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc volutpat nec mauris ac gravida. Donec ut risus ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat. Proin vitae condimentum nulla, in sollicitudin orci. Mauris eget dui sit amet mi pharetra porta at et turpis. Proin ullamcorper sem eros, ut maximus magna lobortis rhoncus. Curabitur risus enim, venenatis id ex nec, dapibus sodales turpis. Donec pretium dolor mauris, quis auctor lorem elementum et.<\/p>",
             "text_style": "body"
           }
         },
@@ -78,7 +174,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -90,7 +186,9 @@
   },
   "order": [
     "main",
+    "2bf6fc97-7c82-4289-a733-56db4a0410aa",
     "846f0248-6d0e-4dfa-a77b-822b987ac13e",
+    "6f2e2364-d6bb-4314-a3ef-7cd91af88aa7",
     "1fe60f68-a4b6-42a8-b0b3-62ff3daeb0c4"
   ]
 }
