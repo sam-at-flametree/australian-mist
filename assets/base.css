@@ -2963,8 +2963,3 @@ src: url("Termina.woff") format("woff2"),
 url("Termina.woff") format("woff");}
 <p><span style="font-weight: 400;">yourcssselectorhere { font-family: "Termina"!important; }</span></p> 
 
-@media screen and (max-width: 749px) {
-h2 .banner__heading.h0 {
-    font-size: calc(var(--font-heading-scale) * 2.5rem);
-}
-}
